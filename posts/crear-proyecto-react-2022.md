@@ -1,6 +1,6 @@
 ---
 title: "Crear proyecto React (2022)"
-date: "2022-04-07"
+date: "2022-03-10"
 description: "Crear un proyecto de React desde 0 de forma simple y con varias herramientas que nos ayudaran al proceso 2022"
 ---
 

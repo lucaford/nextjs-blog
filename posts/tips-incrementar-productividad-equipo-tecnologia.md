@@ -1,6 +1,6 @@
 ---
 title: "3 tips que incrementaran la productividad del equipo de desarrollo"
-date: "2022-04-07"
+date: "2022-01-22"
 description: "Incrementar la productividad del equipo de tecnología en simples pasos"
 ---
 
