@@ -1,6 +1,7 @@
 ---
 title: "3 tips que incrementaran la productividad del equipo de desarrollo"
 date: "2022-04-07"
+description: "Incrementar la productividad del equipo de tecnología en simples pasos"
 ---
 
 Ya sea una startup, una corporación o una consultora, el equipo de desarrollo es un pie fundamental para la creación y mantenimiento del software. Es un trabajo muy complejo de llevar adelante ya que requiere mucha capacidad de concentración y razonamiento, y a su vez es muy sencillo quemarse rápidamente (y créanme… es muy difícil volver atrás). Por eso es fundamental que nuestro chapter de programadores trabaje en un **entorno sosegado** y con ciertas **condiciones básicas** para el correcto funcionamiento del equipo. Podemos ver las medidas que toman empresas de primera, como FANG, para que sus empleados se sientan en un ambiente cómodo, o — sin irnos hasta Sillicon Valley — se pueden observar empresas como Mercadolibre, que en los últimos años cambió radicalmente su cultura de trabajo. Pero no hace falta tener un ping-pong o la última playstation para lograr un buen entorno laboral, sino que es mucho más simple que eso. Con 3 simples pasos podemos incrementar notablemente el rendimiento del equipo sin generar de manera innecesaria un gasto adicional.

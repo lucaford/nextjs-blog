@@ -14,6 +14,7 @@ export default function Post({ postData }) {
           href={`https://www.lucaford.com/posts/${postData.id}`}
           key="canonical"
         />
+        <meta name="description" content={postData.description} />
       </Head>
       <article>
         <h1 className={utilStyles.headingXl}>{postData.title}</h1>

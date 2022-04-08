@@ -1,6 +1,7 @@
 ---
 title: "Crear proyecto React (2022)"
 date: "2022-04-07"
+description: "Crear un proyecto de React desde 0 de forma simple y con varias herramientas que nos ayudaran al proceso 2022"
 ---
 
 ![](https://images.unsplash.com/photo-1517976487492-5750f3195933?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80)

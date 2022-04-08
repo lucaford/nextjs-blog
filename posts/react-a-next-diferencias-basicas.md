@@ -1,6 +1,7 @@
 ---
-title: "React a NextJS: 5 conceptos básicos"
+title: "React a NextJS: 5 diferencias básicas"
 date: "2022-04-07"
+description: "Diferencias basicas y claves entre React y NextJS"
 ---
 
 ![](https://assets.vercel.com/image/upload/q_auto/front/assets/design/black-nextjs.png)
