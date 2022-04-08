@@ -1,6 +1,6 @@
 ---
-title: "Setup proyecto React"
-date: "2020-05-11"
+title: "Crear proyecto React (2022)"
+date: "2022-04-07"
 ---
 
 ![](https://images.unsplash.com/photo-1517976487492-5750f3195933?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80)
