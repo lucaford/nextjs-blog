@@ -1,6 +1,6 @@
 ---
 title: "React a NextJS: 5 diferencias básicas"
-date: "2022-04-07"
+date: "2022-03-07"
 description: "Diferencias basicas y claves entre React y NextJS"
 ---
 
@@ -23,7 +23,7 @@ También NextJS nos introduce al concepto de rutas dinámicas y lo vamos a utili
 En React, y javascript en general, utilizamos el tag `<a href="…" />` cuando queremos navegar hacia alguna ruta de nuestra aplicación. En NextJS, si queremos navegar entre pages de nuestra App, vamos a continuar utilizando el mismo tag solo que lo vamos a wrappear con el componente `<Link>` que importaremos desde "next/link". Utilizando este componente la navegación se produce del lado del cliente (client-side) lo que significa que se ejecuta usando javascript y no la navegación por default del browser. Esto permite que la web no haga un refresh completo de la aplicación y por contraste la navegación a otra página se ejecuta mucho más rápido.
 
 - React: `<a href={'/posts/${id}'}>{title}</a>`
-- Next: `<Link href={`/posts/${id}`}><a>{title}</a></Link>`
+- Next: `<Link href={'/posts/${id}'}><a>{title}</a></Link>`
 
 Por último, pero sumamente importante, cuando Next detecta que el tag `<Link>` aparece en el viewport del browser hace un pre-fetch de la página a la cual hace referencia así ya queda cargada en el background, y la navegación se producirá de forma instantánea. Acá ya se introduce el concepto de pre-fetching dentro de Next y es una de las razones por las cuales este framework es tan querido.
 
